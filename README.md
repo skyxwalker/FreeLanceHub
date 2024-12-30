@@ -64,15 +64,15 @@ FreelanceHub is a comprehensive freelancing platform that facilitates seamless c
 4. Client approves delivery
 5. Admin releases payment to freelancer
 
-<!--![Payment System](assets/screenshots/admin/ss3.png)-->
+<!--![Payment System](assets/screenshots/admin/ss3.png)
 
 ## 📊 User Management
 
 ### Admin Controls
-<!--![User Management](assets/screenshots/admin/ss2.png)-->
+<!--![User Management](assets/screenshots/admin/ss2.png)
 
 ### Freelancer Profile
-<!--![Profile Management](assets/screenshots/freelancer/ss5.png)-->
+<!--![Profile Management](assets/screenshots/freelancer/ss5.png)
 
 ### Client Interface
 <!--![Client Interface](assets/screenshots/customer/ss1.png)-->
